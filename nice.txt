@@ -1,1 +1,2 @@
 print("nice day")
+print(" what are you doing now?")
